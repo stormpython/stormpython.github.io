@@ -1,26 +1,26 @@
-title:            Site Title
-description:      Describe your website here.
+title:           StormPython 
+description:      My Blog.
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:          Shelby Sturgis 
+  avatar:         shelbysturgis.jpg
+  bio:            "Biologist by training, data visualizer by trade, and family man by night."
+  email:          shelbyjsturgis@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:	 stormpython       
   facebook:       
-  github:         
+  github:        stormpython 
   stackexchange:  
-  linkedin:       
+  linkedin:   shelby-sturgis/10/49b/a34
   instagram:      
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   
+  google_plus:  +ShelbySturgis
 
 # Background image to be tiled on all pages
 background: ps_neutral.png
