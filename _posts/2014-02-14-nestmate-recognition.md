@@ -31,10 +31,10 @@ The list goes on! So, now that you know why ants are cool, let's dive into the t
 
 ## Nestmate Recognition
 Nestmate recognition is the ability of ants to distinguish nestmates, ants residing in the same colony, from non-nestmates,
-ants from other colonies. Imagine you are an worker in a colony with 12 million ants. How would you tell the difference
+ants from other colonies. Imagine you are a worker in a colony with 12 million ants. How would you tell the difference
 between ants that belong in your colony (many ants of which you've never met) and those that do not belong?
 
-Since most ants have poor vision and because ants communicate chemically, these differences are defined by how ants smell.
+Since ants have poor vision and because ants communicate chemically, these differences are defined by how ants smell.
 Ants from the same colony tend to smell more alike than ants from different colonies. If an ant's odor is just beyond the
 threshold for acceptance into the colony, it may be attacked or harassed by other ants. So, you'd simply
 smell the other ant. If it is within the threshold for acceptance, you'd let them in, and if not, you'd battle to the death!

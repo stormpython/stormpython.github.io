@@ -14,7 +14,7 @@ I am a former biologist/ecologist turned software developer. I studied behaviora
 research focused on understanding how ants distinguish nestmates, ants residing in the same colony, from non-nestmates,
 ants from different colonies. If you'd like to learn more, you can read a review of my research
 <a href="http://www.stanford.edu/~dmgordon/articles/other/myrmecological-news-16/SturgisGordon2012.pdf">here<a/>. For
-a more brief introduction to my graduate work, check out my very <a href="">first blog post</a>.
+a more brief introduction to my graduate work, check out my very <a href="{{ site.url }}/nestmate-recognition">first blog post</a>.
 
 <p style="font-size: 20px; line-height: 1.3">
 After graduate school, I became an <a href="http://insightdatascience.com/">Insight Data Science</a> fellow.
