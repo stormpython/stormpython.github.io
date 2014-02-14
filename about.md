@@ -12,21 +12,24 @@ share: true
 
 I am a former biologist/ecologist turned software developer. I studied behavioral ecology in graduate school. Specifically, my
 research focused on understanding how ants distinguish nestmates, ants residing in the same colony, from non-nestmates,
-ants from different colonies. If you'd like to learn more, you can read a review of my research <a href="">here<a/>. For
+ants from different colonies. If you'd like to learn more, you can read a review of my research
+<a href="http://www.stanford.edu/~dmgordon/articles/other/myrmecological-news-16/SturgisGordon2012.pdf">here<a/>. For
 a more brief introduction to my graduate work, check out my very <a href="">first blog post</a>.
 
 <p style="font-size: 20px; line-height: 1.3">
-After graduate school, I became an <a href="">Insight Data Science</a> fellow. Insight is a recruitment company focused
-on helping academics transition into the Data Science industry. If you are interested in learning more about Insight, I
-have written a blog post about it and my experience, which can be found <a href="">here</a>. After Insight, I worked as a data visualization
-engineer/data analyst for <a href="">Beats Music</a>. I am currently a data visualization engineer at
-<a href="">Elasticsearch</a>.
+After graduate school, I became an <a href="http://insightdatascience.com/">Insight Data Science</a> fellow.
+Insight is a recruitment company focused on helping academics transition into the Data Science industry.
+If you are interested in learning more about Insight, I have written a blog post about it and my experience,
+which can be found <a href="">here</a>. After Insight, I worked as a data visualization
+engineer/data analyst for <a href="https://beatsmusic.com/">Beats Music</a>. I am currently a data visualization engineer at
+<a href="http://www.elasticsearch.com/">Elasticsearch</a>.
 </p>
 
 ## My hobbies and interests:
 
-* Family (my top priority)
-* Javascript (learning as much as I can about it)
+* Family
+* Javascript and data viz
+* Analytics and data mining
 * Gadgets (any and all gadgets)
 * Science (specifically Animal Behavior)
 * Sports (mainly basketball, football, and boxing, but I don't discriminate)

@@ -9,7 +9,7 @@ owner:
   name:          Shelby Sturgis 
   avatar:         shelbysturgis.jpg
   bio:            "Biologist by training, data visualizer by trade, and family man by night."
-  email:          shelbyjsturgis@gmail.com
+  email:
   # Social networking links used in footer. Update and remove as you like.
   twitter:	 stormpython       
   facebook:       
@@ -20,7 +20,7 @@ owner:
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:  +ShelbySturgis
+  google_plus:
 
 # Background image to be tiled on all pages
 background: ps_neutral.png
