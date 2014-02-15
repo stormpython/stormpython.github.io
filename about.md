@@ -4,10 +4,9 @@ permalink: /about/
 title: About Me
 tags: [science, research, data science, interests, hobbies]
 image:
-  feature: forest.jpg
-  credit: captian kimo
-  creditlink: http://www.captainkimo.com/
-  #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: greenforest.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 share: true
 ---
 
