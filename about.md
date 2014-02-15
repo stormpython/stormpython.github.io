@@ -5,8 +5,8 @@ title: About Me
 tags: [science, research, data science, interests, hobbies]
 image:
   feature: ant.jpg
-  credit: freewindows8.org
-  creditlink: http://www.freewindows8.org/panoramic-forests.html
+  credit: alexwild
+  creditlink: http://www.myrmecos.net/2011/09/12/the-forest-changes-following-a-foreign-ant-invasion/
   #credit: dargadgetz
   #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 share: true
