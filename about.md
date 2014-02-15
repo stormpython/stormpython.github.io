@@ -10,7 +10,9 @@ image:
 share: true
 ---
 
-I am a former biologist/ecologist turned software developer. I studied behavioral ecology in graduate school. Specifically, my
+I am a former biologist/ecologist turned software developer.
+
+I studied behavioral ecology in graduate school. Specifically, my
 research focused on understanding how ants distinguish nestmates, ants residing in the same colony, from non-nestmates,
 ants from different colonies. If you'd like to learn more, you can read a review of my research
 <a href="http://www.stanford.edu/~dmgordon/articles/other/myrmecological-news-16/SturgisGordon2012.pdf">here<a/>. For
