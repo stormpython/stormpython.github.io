@@ -5,8 +5,10 @@ title: About Me
 tags: [science, research, data science, interests, hobbies]
 image:
   feature: forest3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  credit: freewindows8.org
+  creditlink: http://www.freewindows8.org/panoramic-forests.html
+  #credit: dargadgetz
+  #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 share: true
 ---
 
