@@ -86,7 +86,7 @@ Can you tell me a little about your data project during the program?
   tools at your disposal to accomplish the task and present it as a web app. If you do not have any experience with
   javascript, html, css, mvc frameworks, start practicing. A website that is great for learning or brushing up on this stuff
   is <a href="http://www.codecademy.com/">codecademy</a>. You can even learn Python there. It is really nice and has a great interface for getting
-  started with a language quickly. It will even teach you about APIs, etc. Stuff you should know about before going to
+  started with a language quickly. It will even teach you about APIs, etc. Stuff you should know before going to
   Insight or interviewing for a job in Data Science.
   </p>
   </li>
@@ -97,7 +97,7 @@ Finally, how was the post-program job search for you?
 <p>
   Rough. I won't lie, interviewing is tough. You are constantly tested and no one cares that you have a PhD, Masters, etc.
   They just want to know if you can do whatever it is they need you to do with very little to no guidance. Many times,
-  they may not even know what they are looking for or you are not sure about what they want until the interview. You will
+  they may not even know what they are looking for or you are not sure what they want until the interview. You will
   have to study daily and cram like you would for exams. I had a lot of catching up to do since I have never taken a formal
   computer science course (not that that is a prerequisite). But you certainly need to know certain things depending on the
   path in data science you intend to choose.
