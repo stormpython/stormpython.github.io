@@ -47,7 +47,7 @@ Simple, right? Well, not quite. But what is?
   <a href="http://www.discoverlife.org/mp/20q?search=Pogonomyrmex+barbatus">
     <img src="http://www.discoverlife.org/IM/I_ALW/0003/mx/Pogonomyrmex_barbatus,_workers,I_ALW322.jpg" alt="">
   </a>
-  <figcaption>Pogonomyrmex barbatus workers. Picture taken by <a href="http://www.alexanderwild.com/">Alex Wild</a></figcaption>
+  <figcaption>Pogonomyrmex barbatus workers. Picture taken by <a href="http://www.alexanderwild.com/">Alex Wild</a>.</figcaption>
 </figure>
 
 <blockquote cite="http://en.wikipedia.org/wiki/Red_harvester_ant">
