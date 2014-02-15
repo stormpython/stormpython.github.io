@@ -4,7 +4,7 @@ permalink: /about/
 title: About Me
 tags: [science, research, data science, interests, hobbies]
 image:
-  feature: forest3.jpg
+  feature: ant.jpg
   credit: freewindows8.org
   creditlink: http://www.freewindows8.org/panoramic-forests.html
   #credit: dargadgetz
