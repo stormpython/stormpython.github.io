@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transitioning to Industry with Insight"
-description: "My experience transitioning from academia to data science at Insight Data Science"
+description: "My experience transitioning from academia to data science with Insight Data Science"
 tags: [academia, data science, transition, Insight Data Science]
 comments: true
 share: true
