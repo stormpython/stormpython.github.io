@@ -22,7 +22,7 @@ a more brief introduction to my graduate work, check out my very <a href="{{ sit
 
 After graduate school, I became an <a href="http://insightdatascience.com/">Insight Data Science</a> fellow.
 Insight is a recruitment company focused on helping academics transition into the Data Science industry.
-If you are interested in learning more about Insight, I am writing a blog post about my experience. So stay tuned.
+If you are interested in learning more about Insight, check out my <a href="{{ site.url }}/transitioning-to-industry-with-insight">blog post</a>.
 After Insight, I worked as a data visualization engineer/data analyst for <a href="https://beatsmusic.com/">Beats Music</a>.
 I am currently a data visualization engineer at <a href="http://www.elasticsearch.com/">Elasticsearch</a>.
 

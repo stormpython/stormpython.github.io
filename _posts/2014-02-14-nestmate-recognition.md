@@ -7,6 +7,12 @@ comments: true
 share: true
 ---
 
+<figure>
+  <a href="http://www.myrmecos.net/2014/02/14/happy-valentines-day/">
+    <img src="http://www.myrmecos.net/wp-content/uploads/2014/02/valANTine.jpg" alt="">
+  </a>
+</figure>
+
 Happy Valentines Day everyone!
 
 I want to start off my on personal blog by discussing a topic close to my heart, **ants**!

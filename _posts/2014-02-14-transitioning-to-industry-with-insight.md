@@ -24,7 +24,7 @@ environmental sciences. Most courses outside of biology or science that I took a
 educational institution than my college. Even after college, I worked in a molecular lab studying fluorescent proteins
 and at a pharmaceutical company purifying proteins for medicinal purposes. After 3 years of working, I decided to go to
 grad school to earn a PhD in Behavioral Ecology. My research focused on <a href="{{ site.url }}/nestmate-recognition">nestmate recognition</a> in ants.
-In all that time, I hadn't taken one computer science or programming course. I had only dabbled with Python and programmed in R,
+In all that time, I hadn't taken one computer science or programming course. I had only dabbled with Python and programmed in <a href="http://www.r-project.org/">R</a>,
 an open source statistical programming language used by many poor undergraduate, graduate, and post-doctoral students.
 
 I didn't quite have the skill set of a data scientist. So what changed?
@@ -56,7 +56,7 @@ if not, feel free to ask questions in the comments section.
 
 <ol>
   <li>
-<p>Did you need to show you had a lot of exposure to working with large data to get accepted? If you did, what did you highlight?</p>
+<p>Did you need to show you had a lot of exposure to working with big data to get accepted? If you did, what did you highlight?</p>
 <p>
   Having experience with large data sets is not a prerequisite. Having experience with data is. In fact, it is extremely
   uncommon for anyone in academia to deal with the amount of data you'd see in industry. The main thing to getting into Insight
@@ -71,7 +71,7 @@ if not, feel free to ask questions in the comments section.
 What programming languages do you think are critical for either getting accepted, or completing the program?
   </p>
   <p>
-  Going into Insight, I had experience mainly with <a href="http://www.r-project.org/">R</a>, but I also had some experience with Python.
+  Going into Insight, I had experience mainly with R, but I also had some experience with Python.
   If you are not that comfortable with Python, use this time now to get comfortable. Start coding in Python.
   Familiarize yourself with their machine learning, statistical, math related libraries, etc. Do some projects in Python.
   Take time to get better at Python, trust me, you will need it. If not to get into Insight, to get a job after Insight.
