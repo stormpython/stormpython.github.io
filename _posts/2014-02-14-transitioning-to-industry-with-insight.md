@@ -71,7 +71,7 @@ if not, feel free to ask questions in the comments section.
 What programming languages do you think are critical for either getting accepted, or completing the program?
   </p>
   <p>
-  Going into Insight, I had experience mainly with R, but I also had some experience with Python.
+  Going into Insight, I had experience mainly with <a href="http://www.r-project.org/">R</a>, but I also had some experience with Python.
   If you are not that comfortable with Python, use this time now to get comfortable. Start coding in Python.
   Familiarize yourself with their machine learning, statistical, math related libraries, etc. Do some projects in Python.
   Take time to get better at Python, trust me, you will need it. If not to get into Insight, to get a job after Insight.
