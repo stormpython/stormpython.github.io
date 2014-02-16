@@ -41,7 +41,7 @@ smell the other ant. If it is within the threshold for acceptance, you'd let the
 
 Simple, right? Well, not quite. But what is?
 
-## A Case Study with the Red Harvester Ant, _Pogonomyrmex Barbatus_
+## A Case Study with the Red Harvester Ant, _Pogonomyrmex barbatus_
 
 <figure>
   <a href="http://www.discoverlife.org/mp/20q?search=Pogonomyrmex+barbatus">
