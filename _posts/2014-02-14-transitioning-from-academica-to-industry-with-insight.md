@@ -7,6 +7,12 @@ comments: true
 share: true
 ---
 
+<figure>
+  <a href="http://http://insightdatascience.com/">
+    <img src="http://anchow.files.wordpress.com/2013/10/insight.png%3Fw%3D400%26h%3D316" alt="">
+  </a>
+</figure>
+
 As a biologist that transitioned from academia to the data science industry, I often get asked by biologist that are
 aspiring data scientist, how I did it? The answer is that <a href="http://insightdatascience.com/">Insight Data Science</a> had a lot to do with it.
 For those of you who have never heard about Insight, it is a 6-week fellowship program in which academics from many
@@ -65,7 +71,7 @@ if not, feel free to ask questions in the comments section.
 What programming languages do you think are critical for either getting accepted, or completing the program?
   </p>
   <p>
-  Going into Insight, I had experience mainly with R, but I also had a some experience with Python.
+  Going into Insight, I had experience mainly with R, but I also had some experience with Python.
   If you are not that comfortable with Python, use this time now to get comfortable. Start coding in Python.
   Familiarize yourself with their machine learning, statistical, math related libraries, etc. Do some projects in Python.
   Take time to get better at Python, trust me, you will need it. If not to get into Insight, to get a job after Insight.
@@ -81,11 +87,11 @@ Can you tell me a little about your data project during the program?
 <p>
   The jist of my data project is listed on my <a href="http://www.linkedin.com/pub/shelby-sturgis/10/49b/a34">LinkedIn profile</a>. That is basically it. I can tell you about
   the process. First, you'll need to come up with a question that you'd like to answer or a problem you'd like to address,
-  and choose whatever data (public or private, if you can get your hands on it) is available. You need to choose something that is actionable.
+  and choose whatever data (public or private) are available. You need to choose something that is actionable.
   That is, the answer you come up with can immediately be acted upon by the audience you are addressing. You use whatever
   tools at your disposal to accomplish the task and present it as a web app. If you do not have any experience with
-  javascript, html, css, mvc frameworks, start practicing. A website that is great for learning or brushing up on this stuff
-  is <a href="http://www.codecademy.com/">codecademy</a>. You can even learn Python there. It is really nice and has a great interface for getting
+  Javascript, HTML, CSS, MVC frameworks, start practicing. A website that is great for learning or brushing up on this stuff
+  is <a href="http://www.codecademy.com/">Codecademy</a>. You can even learn Python there. It is really nice and has a great interface for getting
   started with a language quickly. It will even teach you about APIs, etc. Stuff you should know before going to
   Insight or interviewing for a job in Data Science.
   </p>
