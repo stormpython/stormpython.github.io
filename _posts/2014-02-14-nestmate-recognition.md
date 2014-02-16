@@ -15,7 +15,7 @@ share: true
 
 Happy Valentines Day everyone!
 
-I want to start off my on personal blog by discussing a topic close to my heart, **ants**!
+I want to start off my blog by discussing a topic close to my heart, **ants**!
 As a graduate student, I studied ant communication. More specifically, my research involved understanding
 how ants recognize one another. Now, you might be asking yourself, why would anyone want to get a PhD in ants.
 Well, its quite simple really. Ants are extremely fascinating.
