@@ -13,7 +13,7 @@ share: true
   </a>
 </figure>
 
-**For a more recent and updated version of this post, visit the
+**For an updated version of this post, visit the
  <a href="http://insightdatascience.com/blog/fellow_spotlight_shelby_sturgis.html">Insight Data Science Blog</a>.**
 
 As a biologist that transitioned from academia to the data science industry, I often get asked by biologist that are
